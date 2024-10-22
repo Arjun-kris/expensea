@@ -27,19 +27,16 @@ Expensea is a simple and intuitive Android application for managing your daily e
    cd expensea
 
 2. Open the project in Android Studio:
-
-Launch Android Studio and select "Open an existing project".
-Navigate to the cloned repository folder and open it.
+   Launch Android Studio and select "Open an existing project".
+   Navigate to the cloned repository folder and open it.
 
 3. Build the project:
-
-Allow Android Studio to download the necessary dependencies (such as Gradle).
-Build the project by selecting Build > Make Project.
+   Allow Android Studio to download the necessary dependencies (such as Gradle).
+   Build the project by selecting Build > Make Project.
 
 4. Run the app:
-
-Connect an Android device or use an emulator.
-Select Run > Run 'app' to install and run the application on your device.
+   Connect an Android device or use an emulator.
+   Select Run > Run 'app' to install and run the application on your device.
 
 ## Usage
 - Navigate to the home page and start adding your expenses.
